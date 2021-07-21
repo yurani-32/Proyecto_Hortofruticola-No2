@@ -88,3 +88,22 @@ border:none;
   heigth: 350px;
   overflow:hidden;
 }
+.galeria_contenedor {
+  display: flex:
+    Width: 7000px;
+  height: 50px;
+  transition: transform 1s ease-in;
+  will-change: transform;
+}
+
+.elemento1:checked ~ .galeria_contenedor {
+ transform: traslateX(0px); 
+}
+
+.elemento2:checked ~ .galeria_contenedor {
+ transform: traslateX(-600px); 
+}
+
+.elemento3:checked ~ .galeria_contenedor {
+ transform: traslateX(-1200px); 
+}
