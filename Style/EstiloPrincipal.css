@@ -4,3 +4,93 @@
 font-family:  'Open Sans' , sans-serif;
 }
     
+.contenedor {
+  border: solid 1px black;
+  width:100%;
+  max-width:100px;
+  margin:auto;
+  box-sizzing:border-box;
+  overflow:hidden;
+}
+.cabecera {
+  display: flex;
+  justify-content:space-between;
+  position; relative;
+  height: 100px;
+}
+
+.cabecera figure  {
+  width:130px;
+  margin: auto;
+}
+
+.cabecera img {
+   width:130px;
+  heigth: 120px;
+  
+  
+} 
+.cabecera_h1 i
+position: adsolute;
+top:70px;
+letf:240;
+}
+
+.nav {
+  margin: 10px 10px 0 0;
+  position: unset;
+  beckground: none;
+  heigth: auto;
+   width: unset;
+  border: mone;
+}
+
+. nav_link {
+  background:#008899;
+  color: white;
+padding:5px;
+  border-radius: 3px;
+}
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
