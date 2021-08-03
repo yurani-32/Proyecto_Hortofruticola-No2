@@ -52,7 +52,22 @@ padding:5px;
   border-radius: 3px;
 }
 
-7
+.nav_link_button  {
+  background:#008899;
+  color:white;
+  padding:5px;
+  border-radius:3px;
+}
+ /****************/
+.galeria {
+  width:100%;
+  heigth:400px;
+  backgrouf:#333;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
 
 
 
